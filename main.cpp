@@ -1,5 +1,5 @@
 #include <iostream>
-#include "src.hpp"
+#include "game.h"
 
 void loadCards(Pile& draw_pile) {
     int n;

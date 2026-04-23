@@ -4,5 +4,5 @@ project(final)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(code main.cpp
-        src.hpp
+        game.h
 )
