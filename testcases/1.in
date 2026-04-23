@@ -1,0 +1,38 @@
+1
+5
+SCORE 1
+SCORE 2
+SCORE 3
+SCORE 4
+SCORE 5
+query draw_pile
+query hand
+query discard_pile
+draw
+query draw_pile
+query hand
+query discard_pile
+query score
+play 1
+query draw_pile
+query hand
+query discard_pile
+query score
+play 1
+query draw_pile
+query hand
+query discard_pile
+query score
+finish
+query draw_pile
+query hand
+query discard_pile
+query score
+draw
+query draw_pile
+query hand
+query discard_pile
+query score
+play 5
+query score
+exit

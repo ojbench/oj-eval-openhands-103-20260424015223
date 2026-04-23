@@ -1,0 +1,20 @@
+1
+5
+SKILL Multiplier
+SCORE 10
+SKILL Multiplier
+SKILL Multiplier
+SCORE 20
+draw
+query hand
+play 1
+query score
+play 1
+query score
+play 1
+query score
+play 1
+query score
+play 1
+query score
+exit

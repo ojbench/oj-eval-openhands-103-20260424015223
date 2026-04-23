@@ -1,0 +1,28 @@
+1
+5
+SCORE 1
+SCORE 2
+SKILL HeadButt
+SCORE 3
+SKILL HeadButt
+draw
+query hand
+query draw_pile
+query discard_pile
+play 1
+query score
+query discard_pile
+play 1
+query score
+query discard_pile
+play 1
+query score
+query draw_pile
+query discard_pile
+query hand
+draw
+query hand
+query draw_pile
+play 3
+query score
+exit

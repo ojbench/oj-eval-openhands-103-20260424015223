@@ -1,0 +1,24 @@
+1
+5
+POWER 3
+SCORE 10
+POWER 5
+SCORE 20
+SCORE 30
+draw
+query hand
+query discard_pile
+play 1
+query score
+query discard_pile
+play 1
+query score
+query hand
+play 1
+query score
+query discard_pile
+play 1
+query score
+play 1
+query score
+exit

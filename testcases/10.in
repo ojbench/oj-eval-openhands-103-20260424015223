@@ -1,0 +1,73 @@
+3
+20
+POWER 3
+POWER 5
+SKILL Multiplier
+SKILL Multiplier
+SCORE 10
+POWER 2
+SKILL Multiplier
+SCORE 15
+SKILL HeadButt
+SCORE 20
+POWER 7
+SKILL HeadButt
+SKILL Multiplier
+SCORE 25
+SKILL Multiplier
+POWER 4
+SCORE 30
+SKILL HeadButt
+SCORE 40
+SCORE 50
+draw
+query hand
+query draw_pile
+query discard_pile
+play 1
+play 1
+query score
+play 1
+play 1
+play 1
+query score
+query hand
+query discard_pile
+finish
+draw
+query hand
+play 1
+play 1
+query score
+play 1
+query score
+query discard_pile
+finish
+draw
+query hand
+play 1
+play 1
+play 1
+play 1
+query score
+play 1
+query score
+query discard_pile
+draw
+query hand
+play 1
+play 1
+play 1
+query score
+finish
+query hand
+query discard_pile
+draw
+query hand
+play 1
+play 1
+play 1
+play 1
+play 1
+query score
+exit
